@@ -1,0 +1,21 @@
+.grilla{
+    width: 606px;
+    height: 606px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.contenedor{
+    display: flex;
+}
+
+.emoji{
+    background-image: url("imagenes/luffy.png");
+    background-size: cover;
+}
+
+.cuadro{
+    height: 200px;
+    width: 200px;
+    border: solid red 1px;
+}
